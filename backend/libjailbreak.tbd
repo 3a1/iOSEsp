@@ -1,0 +1,14 @@
+--- !tapi-tbd
+tbd-version:     4
+targets:         [ arm64-ios, arm64e-ios ]
+install-name:    '@loader_path/../../basebin/libjailbreak.dylib'
+current-version: 1.0.0
+exports:
+  - targets:     [ arm64-ios, arm64e-ios ]
+    symbols:
+      - _jbclient_initialize_primitives_internal
+      - _proc_find
+      - _proc_task
+      - _kread_ptr
+      - _vreadbuf
+...

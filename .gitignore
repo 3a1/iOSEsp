@@ -1,0 +1,4 @@
+.git/
+.theos/
+/frontend/packages/
+/backend/backend

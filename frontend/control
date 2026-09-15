@@ -1,0 +1,9 @@
+Package: com.z3bra.screenoverlay
+Name: ScreenOverlay
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: Screen drawing overlay
+Maintainer: Z3bra
+Author: Z3bra
+Section: Tweaks
+Depends: mobilesubstrate (>= 0.9.5000)
