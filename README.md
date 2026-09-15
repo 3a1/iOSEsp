@@ -39,7 +39,7 @@ Once Theos is installed, use the `build.sh` script in either the backend or fron
 
 The only exception, if you are using roohide Dopamine, use build_roothide.sh for the frontend instead. 
 
-I have tried to make the compilation process as easy as possible. If you run into any problems, contact details are in the [Contact](##Contact) section. 
+I have tried to make the compilation process as easy as possible. If you run into any problems, contact details are in the [Contact](#contact) section. 
 
 ## Installation
 
